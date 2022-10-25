@@ -137,7 +137,7 @@
 
   .nav-open .main-nav {
     opacity: 1;
-    pointer-events: auto;
+    pointer-events: fill;
     visibility: visible;
 
     transform: translateX(0);
